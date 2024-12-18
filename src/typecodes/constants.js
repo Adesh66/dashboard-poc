@@ -4,10 +4,6 @@ import Coin from '../assets/icons/Coin.svg';
 import ChatTeardrop from '../assets/icons/ChatTeardrop.svg';
 import CheckFat from '../assets/icons/CheckFat.svg';
 
-export const iconNames = {
-    Consultations: '',
-};
-
 export const glanceMockData = [
     {
         id: 1,
